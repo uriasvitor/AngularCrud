@@ -1,0 +1,43 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "title": "Hambúrguer",
+      "description": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "X-Búrguer",
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "X-Bacon",
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+      "published": 12.5
+    },
+    {
+      "id": 4,
+      "title": "X-Tudo",
+      "description": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+      "published": false
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": 5
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "title": "Hambúrgueres"
+    },
+    {
+      "id": 2,
+      "title": "Refrigerantes"
+    }
+  ]
+}
